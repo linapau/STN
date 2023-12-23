@@ -39,7 +39,7 @@ Currently supported flags:
 ## Authors
 
 - Andrzej Małolepszy [@jestem-andrew](https://www.github.com/jestem-andrew)
-- Paulina Poręba
+- Paulina Poręba [@linapau](https://github.com/linapau)
 - Julia Kurzawa
 
 ## Supervisor
